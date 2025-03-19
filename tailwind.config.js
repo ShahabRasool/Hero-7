@@ -4,8 +4,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary1': '#ffffff',
-        'primary-color': '#FFC848',
+        'primary': '#3B71CA',
+        'secondary': '#9FA6B2',
+        'tertiary': '#F9FAFB',
+        'body': '#1F2937',
+    'body-bg': '#FFFFFF',
+    'h1': '#1F2937',
+    'h2': '#1F2937',
+    'h3': '#1F2937',
+    'h4': '#1F2937',
+    'success': '#14A44D',
+    'warning': '#E4A11B',
+    'error': '#DC4C64'
       },
       fontFamily: {
         'bodytext': ['Open Sans'],
